@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MADLevel2Example</string>
+    <string name="ReminderHint">Give a reminder</string>
+    <string name="BtnReminder">Add Reminder</string>
+</resources>
